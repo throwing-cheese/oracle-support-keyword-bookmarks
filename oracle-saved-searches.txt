@@ -1,0 +1,41 @@
+------------- Saved Searches ---------------
+
+------------- Oracle ---------------
+
+Oracle Bug
+b
+https://support.oracle.com/rs?type=bug&id=%s
+
+Oracle Note
+n
+https://support.oracle.com/rs?type=doc&id=%s
+
+Oracle Patch
+p
+https://support.oracle.com/rs?type=patch&id=%s
+
+Oracle RFC
+rfc
+https://support.oracle.com/epmos/faces/OnDemandRfcDetail?rfcNumber=%s
+
+Oracle SR
+sr
+https://support.oracle.com/epmos/faces/SrDetail?srDetailRelativeDateParam=false&srNumber=%s
+
+Oracle Cloud Docs
+cloud
+https://docs.oracle.com/search/?q=%s&category=cloud&product=en%2Fcloud%2Fsaas%2Ffinancials%2F21d
+
+------------- Service Now ---------------
+
+SNOW Change
+ch
+https://example.service-now.com/change_request.do?sysparm_query=number=%s
+
+SNOW Incident
+in
+https://example.service-now.com/incident.do?sysparm_query=number=%s
+
+SNOW Search
+srch
+https://example.service-now.com/nav_to.do?uri=/$sn_global_search_results.do?sysparm_search=%s
