@@ -26,6 +26,10 @@ Oracle Cloud Docs
 cloud
 https://docs.oracle.com/search/?q=%s&category=cloud&product=en%2Fcloud%2Fsaas%2Ffinancials%2F21d
 
+Oracle Cloud Customer Connect Search
+ccc
+https://community.oracle.com/customerconnect/search?domain=discussions&query=%s&scope=site&source=community
+
 ------------- Service Now ---------------
 
 SNOW Change
